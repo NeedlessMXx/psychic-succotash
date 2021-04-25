@@ -30,7 +30,7 @@ public class MyJavaApp
         System.out.println("THe age of a student is " + age1 + " years old");
         System.out.println("The grade of Chemistry is '" + grade1 + "'");
         System.out.println("It is " + rain + " that the rain has stopped");
-
+        System.out.println("Hello World!");
     }
 
 }
